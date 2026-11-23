@@ -15,3 +15,10 @@ RecipeManager 🍳
 #Technologies used are: Python, Streamlit, Pandas.
 
 #Data Storage: Recipes are stored in a CSV file (recipes.csv). Users can upload an existing CSV file, make changes to their recipes, and download the updated data.
+
+deployment link:
+https://recipemanager-fatimaalsarh-q4xappafdsyskztk8wzqeku.streamlit.app/
+
+
+google drive link
+https://drive.google.com/drive/folders/1l8gHaclWcmHHVWPoXkVPw9uVeULXb0de?usp=sharing
